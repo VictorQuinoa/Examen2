@@ -18,7 +18,9 @@ public class Main {
 
         private int i =0;
         private int a =0;
-
+/**
+ * bucle que permite repetir el juego hasta que el jugador diga
+ */
         do{
 
             System.out.println("Introduce un número:");
