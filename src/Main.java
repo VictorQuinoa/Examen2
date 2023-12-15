@@ -3,18 +3,19 @@ import javax.swing.*;
 public class Main {
     public static void main(String ars[]){
 
-        /**
-         * numeros del juego
-         */
-
 
         Datos sing = Datos.getInstance();
 
         sing.setDatos(2);
+
+        /**
+         * atributos y objetos
+         */
+
         Juego ju = new Juego;
         Record re = new Record;
 
-        private int i=0;
+        private int i =0;
         private int a =0;
 
         do{
