@@ -9,7 +9,8 @@ public class Main {
         sing.setDatos(2);
 
         /**
-         * atributos y objetos
+         * atributos y objetos de la clase
+         *
          */
 
         Juego ju = new Juego;
